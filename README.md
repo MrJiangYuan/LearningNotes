@@ -1,3 +1,1 @@
-# LearningNotes
-
-Notes about linux command, C language ,C++ language
+# **没有你想要的学习资料!!!**  
